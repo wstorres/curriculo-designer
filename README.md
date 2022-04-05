@@ -1,7 +1,7 @@
 <h1 align="center">Meu Curriculo</h1>
 
 
-<!--->
+<!---
 para incluir um gif usar o codigo abaixo:
 
 </p>
@@ -37,11 +37,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 - 🌱 Desenvolvedor web
 - 😄 Apaixonado por programação
 - 📫 Contato: wav.torres@gmail.com
-
-<br></br>
-
-
-
-## ♥ Desenvolvido by 
+- 😄 Github: https://github.com/wstorres
+## ♥ Desenvolvido by: 
 
 [Wagner Torres](https://github.com/wstorres)
