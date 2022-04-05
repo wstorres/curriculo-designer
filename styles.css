@@ -12,7 +12,7 @@ body {
   background: #d2d5dd;
   font-size: 15px;
   line-height: 22px;
-  color: #555555;
+  color: #373737;
 }
 
 p {
@@ -34,7 +34,7 @@ p {
   width: 880px;
   height: auto;
   display: flex;
-  margin: 50px auto;
+  margin: auto;
 }
 
 .resume .resume_left {
@@ -88,12 +88,12 @@ p {
 }
 
 .resume .resume_left .regular {
-  color: #b1eaff;
+  color: #c5f0ff;
 }
 
 .resume .resume_item {
   padding: 25px 0;
-  border-bottom: 2px solid #b1eaff;
+  border-bottom: 2px solid #c5f0ff;
 }
 
 .resume .resume_left .resume_item:last-child,
@@ -131,13 +131,13 @@ p {
 }
 
 .resume .resume_left ul li .data {
-  color: #b1eaff;
+  color: #c5f0ff;
 }
 
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
-  color: #b1eaff;
+  color: #c5f0ff;
   justify-content: space-between;
   align-items: center;
 }
@@ -178,7 +178,7 @@ p {
 }
 
 .resume .resume_right .bold {
-  color: #0bb5f4;
+  color: #009fd9;
 }
 
 .resume .resume_right .resume_work ul,
@@ -214,7 +214,7 @@ p {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  border: 2px solid #0bb5f4;
+  border: 2px solid #009fd9;
 }
 
 .resume .resume_right .resume_work ul li:after,
@@ -225,7 +225,7 @@ p {
   left: -21px;
   width: 2px;
   height: 115px;
-  background: #0bb5f4;
+  background: #009fd9;
 }
 
 .resume .resume_right .resume_hobby ul {
@@ -236,10 +236,10 @@ p {
 .resume .resume_right .resume_hobby ul li {
   width: 80px;
   height: 80px;
-  border: 2px solid #0bb5f4;
+  border: 2px solid #009fd9;
   border-radius: 50%;
   position: relative;
-  color: #0bb5f4;
+  color: #009fd9;
 }
 
 .resume .resume_right .resume_hobby ul li i {
@@ -253,7 +253,7 @@ p {
   right: -52px;
   width: 50px;
   height: 2px;
-  background: #0bb5f4;
+  background: #009fd9;
 }
 
 .resume .resume_right .resume_hobby ul li:last-child:before {
