@@ -1,24 +1,21 @@
 <h1 align="center">Meu Curriculo</h1>
 
 
-
-
+<!--->
+para incluir um gif usar o codigo abaixo:
 
 </p>
 <p align="center">
 <img src="assets/images/screenvideo.gif" align="center" style="border-radius: 10px" />
 </p>
+<!--->
 
-
-## Tecnologias 🚀 
+## 🚀 Tecnologias  
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-
-
-
 
 
 
@@ -38,6 +35,19 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ---
 
-## Desenvolvido com ♥ by 
+
+## 📫 Sobre mim
+
+
+
+- 🌱 Estudando desenvolvimento web
+- 😄 Apaixonado por tecnologia
+- 📫 Contato: wav.torres@gmail.com
+
+<br></br>
+
+
+
+## ♥ Desenvolvido by 
 
 [Wagner Torres](https://github.com/wstorres)
