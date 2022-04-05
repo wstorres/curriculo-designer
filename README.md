@@ -8,7 +8,7 @@ para incluir um gif usar o codigo abaixo:
 <p align="center">
 <img src="assets/images/screenvideo.gif" align="center" style="border-radius: 10px" />
 </p>
-<!--->
+--->
 
 ## 🚀 Tecnologias  
 
@@ -16,9 +16,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-
-
-
 
 ## 📫 Como contribuir
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
@@ -33,15 +30,12 @@ Para contribuir, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
----
-
 
 ## 📫 Sobre mim
 
-
-
-- 🌱 Estudando desenvolvimento web
-- 😄 Apaixonado por tecnologia
+- @ Consultor de tecnologia
+- 🌱 Desenvolvedor web
+- 😄 Apaixonado por programação
 - 📫 Contato: wav.torres@gmail.com
 
 <br></br>
