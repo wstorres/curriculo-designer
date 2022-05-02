@@ -10,7 +10,7 @@
 
 body {
   background: #d2d5dd;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 22px;
   color: #373737;
 }
@@ -21,13 +21,13 @@ p {
 
 .bold {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 17px;
   text-transform: uppercase;
 }
 
 .semi-bold {
   font-weight: 500;
-  font-size: 17px;
+  font-size: 13px;
 }
 
 .resume {
