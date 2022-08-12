@@ -12,7 +12,7 @@ body {
   background: #d2d5dd;
   font-size: 13px;
   line-height: 22px;
-  color: #373737;
+  color: #202020;
 }
 
 p {
@@ -21,13 +21,15 @@ p {
 
 .bold {
   font-weight: 700;
-  font-size: 17px;
+  font-size: 16px;
   text-transform: uppercase;
 }
 
+
+
 .semi-bold {
   font-weight: 500;
-  font-size: 13px;
+  font-size: 11px;
 }
 
 .resume {
@@ -50,25 +52,50 @@ p {
   height: 280px;
 }
 
-#name {
+#name, #skill, #skill, #certificado {
+
   display: flex;  
   align-items: center;
   justify-content: center;
 
 }
+
+ 
+
+
+
 
 #occupation.regular {
   display: flex;  
   align-items: center;
   justify-content: center;
-  font-size: 18px;
-  
-  
+  font-size: 13px;
+  color: #fff;
+  font-weight: 400;  
+ 
+}
+
+a:link, a:visited, a:active {
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;  
+  font-weight: 400; 
+  font-family: "Montserrat", sans-serif;
 
 }
 
+a:hover {
+  font-size:14px;
+  color: #fff;
+  text-decoration: none;
+  -webkit-text-stroke: 0.4px rgb(255, 255, 255); 
+  transition-timing-function: ease-in-out;
+  
+}
+
+
 .resume .resume_left .resume_profile img {
-  border: 5px solid rgb(168, 189, 248);
+  border: 5px solid rgb(181, 199, 236);
   width: 90%;
   height: 90%;
   border-radius: 50%;
@@ -131,13 +158,13 @@ p {
 }
 
 .resume .resume_left ul li .data {
-  color: #c5f0ff;
+  color: #ffffff;
 }
 
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
-  color: #c5f0ff;
+  color: #ffffff;
   justify-content: space-between;
   align-items: center;
 }
