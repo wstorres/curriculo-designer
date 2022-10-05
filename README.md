@@ -1,6 +1,42 @@
-<h1 align="center">Meu Currículo</h1>
+#### PROJETO PRÁTICO | LABORATÓRIO<!--Obrigatorio-->
 
-## 🚀 Tecnologias  
+<SUB>[CURRICULO](#) | [HTML](#) | [CSS](#) |<br /></SUB>
+<sub>Por:<strong> Wagner Torres</strong> | Data: 05/10/2022</sub>
+
+<img style="border-radius: 65px;" alt="" width="30" height="30" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
+<br />
+<br />
+
+
+<h1 align="center">Projeto Prático de Desenvolvimento de Currículo</h1>
+
+## Objetivos Gerais 
+
+<br />
+
+>Desafios de Projeto DIO
+
+>Um dos elementos centrais da nossa metodologia educacional é o conceito de Project-Based Learning / Problem-Based Learning (PBL). Nesse contexto, nossos Desafios de Projeto (também conhecidos como Labs) têm como objetivo aplicar o PBL em conjunto com o GitHub, para criação de um portfólio de soluções consistente ao longo da nossa jornada educacional.
+
+<br />
+
+## Desafio  
+
+<br />
+
+ 
+- Criar um novo repositório (sempre público) através do link https://github.com/new (acessível pelo site através do botão "+", depois "Novo repositório"). Alternativamente, também é comum utilizar o conceito de "fork" em um projeto base disponibilidado pelo expert (esta funcionalidade encontra-se no canto superior direito da página do repositório no GitHub). Tecnicamente, um "fork" cria uma cópia exata do projeto em seu GitHub, mantendo assim uma referência direta ao código original, o que é muito útil para projeto com uma base sólida a ser seguida.
+
+- Lembre-se de que, a URL criada no item anterior é a que você deve entregar ao finalizar o(s) desafio(s) proposto(s) no Lab. Por exemplo: https://github.com/falvojr/lab-banco-digital-oo, onde "falvojr" representa o usuário do GitHub e "lab-banco-digital-oo" é o nome do repositório.
+
+- Por fim, o GitHub possui um editor de código online, o qual pode ser acessado apenas teclando o simbolo de "ponto final" em seu teclado. Com isso, uma versão Web do VSCode será aberta e você poderá editar os arquivos do seu projeto como se tivesse essa IDE instalada em sua máquina. Além disso, esta ferramenta conta com todo controle e versionamento de código (via Git, obviamente), onde você pode fazer normalmente os seus commits, pushes etc.
+
+Nesse contexto, segue um conteúdo exclusivo do DIO Global, que foi disponibilizado gratuitamente para que todos entendam como o GitHub pode ser uma ferramenta poderosa para criação do nosso portfólio de projetos: Criando Seu Currículo Online Usando Apenas Ferramentas do GitHub.
+<br />
+
+## Tecnologias  
+
+<br />
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -8,9 +44,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 ____________________________________
 
+<br />
 
 ## 📫 Como contribuir
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+<br />
 
 Para contribuir, siga estas etapas:
 
@@ -24,51 +62,3 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ____________________________
 
-
-## Autor: 
-
-<div align="center">
-<img style="border-radius: 65px;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
-
-
-### Olá... Meu nome é **Wagner Torres.**
-
-
-<sub><strong>Sou especialista em bancos de dados. Trabalhando diaramente com análise de dados, criação de dashboards e programação em Python. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
-
-
-
-<sub><strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/wagner.torres.sp/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wagnersiltor/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wagner.siltor)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
-</sub>
-
-
-
-<div align="center">
-  <a href="https://github.com/wstorres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wstorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wstorres&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-  <!--
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
--->
-  
-  ##
- 
