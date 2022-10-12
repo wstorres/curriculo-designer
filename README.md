@@ -2,13 +2,12 @@
 
 <SUB>[CURRICULO](#) | [HTML](#) | [CSS](#) |<br /></SUB>
 <sub>Por:<strong> Wagner Torres</strong> | Data: 05/10/2022</sub>
-
-<img style="border-radius: 65px;" alt="" width="30" height="30" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
+<img style="border-radius: 50%;" alt="" width="30" height="30" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">  [<img src = "https://img.shields.io/badge/GitHub-100?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
 <br />
 <br />
 
 
-<h1 align="center">Projeto Prático de Desenvolvimento de Currículo</h1>
+<h1 align="center">Desenvolvimento de Currículo em Formato Web</h1>
 
 ## Objetivos Gerais 
 
