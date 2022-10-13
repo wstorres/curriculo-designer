@@ -1,21 +1,36 @@
-#### PROJETO PRÁTICO | LABORATÓRIO<!--Obrigatorio-->
+#### PROJETO PRÁTICO | CURRICULO WEB<!--Obrigatorio-->
 
-<SUB>[CURRICULO](#) | [HTML](#) | [CSS](#) |<br /></SUB>
-<sub>Por:<strong> Wagner Torres</strong> | Data: 05/10/2022</sub>
-<img style="border-radius: 50%;" alt="" width="30" height="30" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">  [<img src = "https://img.shields.io/badge/GitHub-100?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
-<br />
+
+
+<div class="social social-user" align="right" width-full border color-bg-default>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/wstorres))](https://github.com/wstorres) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wstorres/)](https://www.linkedin.com/in/wstorres/)
+</div>
+
+
+<div class="avatar avatar-user width-full border color-bg-default">
+<img align="left" width="65" height="65" style="border-radius: 65px" 
+border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
+</div>
+
+
+<div class="nome nome-user" align="left"> 
+
+**About me**
+<sub><strong>Wagner Torres</strong> | 12 Out 2022</sub>
+</div>
+
+
 <br />
 
 
 <h1 align="center">Desenvolvimento de Currículo em Formato Web</h1>
-
-## Objetivos Gerais 
-
 <br />
 
->Desafios de Projeto DIO
 
->Um dos elementos centrais da nossa metodologia educacional é o conceito de Project-Based Learning / Problem-Based Learning (PBL). Nesse contexto, nossos Desafios de Projeto (também conhecidos como Labs) têm como objetivo aplicar o PBL em conjunto com o GitHub, para criação de um portfólio de soluções consistente ao longo da nossa jornada educacional.
+## Objetivo
+
+ Nesse contexto, segue um conteúdo exclusivo do DIO Global, que foi disponibilizado gratuitamente para que todos entendam como o GitHub pode ser uma ferramenta poderosa para criação do nosso portfólio de projetos: Criando Seu Currículo Online Usando Apenas Ferramentas do GitHub.
 
 <br />
 
@@ -23,14 +38,17 @@
 
 <br />
 
+1. Criar um novo repositório (sempre público) através do link https://github.com/new (acessível pelo site através do botão "+", depois "Novo repositório"). Alternativamente, também é comum utilizar o conceito de "fork" em um projeto base disponibilidado pelo expert (esta funcionalidade encontra-se no canto superior direito da página do repositório no GitHub). Tecnicamente, um "fork" cria uma cópia exata do projeto em seu GitHub, mantendo assim uma referência direta ao código original, o que é muito útil para projeto com uma base sólida a ser seguida.
+  
+1. Desenvolver um projeto de curriculo pessoal com codigo de marcação HTML5 e estilização CSS3 usando o versiomento de codigo GIT aplicando os conceitos de branchs, commits, pushes etc.
+
+1. Utilizar o servido do  Github Pages para hospedagem de sites estáticos, utilizando o projeto diretamente de um repositório no GitHub. 
  
-- Criar um novo repositório (sempre público) através do link https://github.com/new (acessível pelo site através do botão "+", depois "Novo repositório"). Alternativamente, também é comum utilizar o conceito de "fork" em um projeto base disponibilidado pelo expert (esta funcionalidade encontra-se no canto superior direito da página do repositório no GitHub). Tecnicamente, um "fork" cria uma cópia exata do projeto em seu GitHub, mantendo assim uma referência direta ao código original, o que é muito útil para projeto com uma base sólida a ser seguida.
+1. Fazer o deploy do projeto e documentar todo o processo de desenvolvimento em um arquivo readme e publicar no repostório principal
 
-- Lembre-se de que, a URL criada no item anterior é a que você deve entregar ao finalizar o(s) desafio(s) proposto(s) no Lab. Por exemplo: https://github.com/falvojr/lab-banco-digital-oo, onde "falvojr" representa o usuário do GitHub e "lab-banco-digital-oo" é o nome do repositório.
+1. Dsiponibiliar o link do projeto para visualização.
 
-- Por fim, o GitHub possui um editor de código online, o qual pode ser acessado apenas teclando o simbolo de "ponto final" em seu teclado. Com isso, uma versão Web do VSCode será aberta e você poderá editar os arquivos do seu projeto como se tivesse essa IDE instalada em sua máquina. Além disso, esta ferramenta conta com todo controle e versionamento de código (via Git, obviamente), onde você pode fazer normalmente os seus commits, pushes etc.
 
-Nesse contexto, segue um conteúdo exclusivo do DIO Global, que foi disponibilizado gratuitamente para que todos entendam como o GitHub pode ser uma ferramenta poderosa para criação do nosso portfólio de projetos: Criando Seu Currículo Online Usando Apenas Ferramentas do GitHub.
 <br />
 
 ## Tecnologias  
@@ -41,6 +59,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
+- Git
+- Github-pages
+
+## Link do Projeto
+
+- [Curriculo Web](https://wstorres.github.io/curriculo-designer/)
+- [Deploy](https://github.com/wstorres/curriculo-designer/blob/main/deploy-ghpages.md)
+
 ____________________________________
 
 <br />
