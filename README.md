@@ -16,7 +16,7 @@ border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4
 
 <div class="nome nome-user" align="left"> 
 
-**About me**
+<strong>About me</strong> 
 <sub><strong>Wagner Torres</strong> | 12 Out 2022</sub>
 </div>
 
