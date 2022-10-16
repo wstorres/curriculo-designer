@@ -13,21 +13,18 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 <img align="left" width="65" height="65" style="border-radius: 65px" 
 border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
+
+<strong>About me.</strong>
+<sub>Wagner Torres | 12 Out 2022</sub>
 </div>
 
-
-<div class="nome nome-user" align="left"> 
-
-<strong>About me</strong> 
-<sub><strong>Wagner Torres</strong> | 12 Out 2022</sub>
-</div>
 
 
 <br />
 
 
 <!--Título do Projeto-->
-<h1 align="center">Deploy com GitHub Pages</h1>
+<h2 align="center">Deploy com GitHub Pages</h1>
 
 
 <!--

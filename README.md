@@ -16,8 +16,8 @@ border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4
 
 <div class="nome nome-user" align="left"> 
 
-<strong>About me</strong> 
-<sub><strong>Wagner Torres</strong> | 12 Out 2022</sub>
+<p><strong>About me</strong> 
+<sub><strong>Wagner Torres</strong> | 12 Out 2022</sub></p>
 </div>
 
 
@@ -30,7 +30,7 @@ border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4
 
 ## Objetivo
 
-Projeto prático desenvolvido no curso de Git e GitHbub realizado na "Digital Innovation One" - DIO com o objetivo de praticar os conhecimentos adquiridos no treinamento e demonstrar ferramenta para criação do portfólio de projetos: Criando Seu Currículo Online Usando Apenas Ferramentas do GitHub.
+Projeto prático desenvolvido no curso de Git e GitHbub realizado na "Digital Innovation One" - DIO com o objetivo de praticar os conhecimentos adquiridos no treinamento e demonstrar ferramenta para criação do portfólio de projetos: Criando Seu Currículo Online Usando a Ferramentas do GitHub Pages.
 
 <br />
 
@@ -45,13 +45,14 @@ Desenvolver um projeto de curriculo pessoal com codigo de marcação HTML5 e est
 ## Tecnologias  
 
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+**Esse projeto foi desenvolvido com as seguintes tecnologias:**
 
-- HTML
-- CSS
-- Git
-- Github-pages
-- VSCode
+
+- [HTML5](#)
+- [CSS3](#)
+- [GIT](#)
+- [Github-pages](#)
+
 
 ## Link do Projeto
 
