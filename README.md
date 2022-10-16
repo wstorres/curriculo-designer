@@ -14,8 +14,10 @@
 <img align="left" width="65" height="65" style="border-radius: 65px" 
 border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
 
-About me. 
-Wagner Torres | 12 Out 2022
+<div>
+<sub><strong>About me: </strong> Wagner Torres | 12 Out 2022</sub>
+</div>
+
 </div>
 
 
