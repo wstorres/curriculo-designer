@@ -40,8 +40,10 @@ p {
 }
 
 .resume .resume_left {
-  width: 280px;
-  background: #0890c2;
+  position: relative;
+  width: 290px;
+  float: right;
+  background: linear-gradient(to right, rgb(60, 54, 255) , rgb(4, 2, 66));;
 }
 
 .resume .resume_left .resume_profile {
@@ -142,7 +144,7 @@ a:hover {
   width: 35px;
   height: 35px;
   background: #fff;
-  color: #0bb5f4;
+  color: #0387b7;
   border-radius: 50%;
   margin-right: 15px;
   font-size: 16px;
