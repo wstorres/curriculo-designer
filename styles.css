@@ -179,7 +179,7 @@ a:hover {
   width: 60%;
   margin: 0 5px;
   height: 5px;
-  background: #009fd9;
+  background: #ffffff;
   position: relative;
 }
 
@@ -192,7 +192,7 @@ a:hover {
   top: 0;
   left: 0;
   height: 100%;
-  background: #fff;
+  background: rgb(82, 180, 238);
 }
 
 .resume .resume_left .resume_social .semi-bold {
