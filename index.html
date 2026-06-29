@@ -11,16 +11,6 @@
 
 <body>
 
-<!-- Action Bar: Download PDF & Compartilhar -->
-<div class="resume-actions">
-  <button class="btn-action btn-share" id="btnShare">
-    <i class="fas fa-share-alt"></i> Compartilhar
-  </button>
-  <button class="btn-action btn-pdf" onclick="window.print()">
-    <i class="fas fa-file-pdf"></i> Download PDF
-  </button>
-</div>
-
 <div class="resume">
 
   <!-- ========== SIDEBAR (ESQUERDA) ========== -->
@@ -29,8 +19,10 @@
     <!-- Foto + Nome + Título -->
     <div class="resume_profile">
       <img src="img/photo-02.png" alt="Wagner Torres">
-      <h1 class="bold" id="name">Wagner Torres</h1>
-      <p class="regular" id="occupation">Analista de TI · Database · SQL · Python · BI · Cloud</p>
+      <div class="profile-text">
+        <h1 class="bold" id="name">Wagner Torres</h1>
+        <p class="regular" id="occupation">Analista de TI · Database · SQL · Python · BI · Cloud</p>
+      </div>
     </div>
 
     <div class="resume_content">
@@ -174,6 +166,16 @@
 
   <!-- ========== CONTEÚDO PRINCIPAL (DIREITA) ========== -->
   <div class="resume_right">
+
+    <!-- Action Bar: Download PDF & Compartilhar -->
+    <div class="resume-actions">
+      <button class="btn-action btn-share" id="btnShare">
+        <i class="fas fa-share-alt"></i> Compartilhar
+      </button>
+      <button class="btn-action btn-pdf" onclick="window.print()">
+        <i class="fas fa-file-pdf"></i> Download PDF
+      </button>
+    </div>
 
     <!-- Destaques / Stats -->
     <div class="resume_item resume_highlights">
